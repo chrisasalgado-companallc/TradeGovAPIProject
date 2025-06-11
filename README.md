@@ -1,3 +1,12 @@
+# Steps to Deploy
+1. Clone the repo
+2. Open with VS Code
+3. Create a new Scratch Org
+4. Push source
+5. Assign the Permission Set from terminal - sfdx force:user:permset:assign --permsetname Trade_Gov_Permission_Set
+6. Test process by create a new Account
+
+*************************
 # Salesforce DX Project: Next Steps
 
 Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
